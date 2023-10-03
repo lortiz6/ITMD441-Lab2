@@ -106,23 +106,26 @@
 /* Grid Part 3 */
 
 #grid-section3 .grid {
-
+	display: grid; 
+	grid-template-columns: 2fr 1fr; 
+	grid-template-rows: 100px 300px 100px; 
+	grid-gap: 10px;
 }
 
 #grid-section3 .box1 {
-
+  grid-row: 1 / 4;
 }
 
 #grid-section3 .box2 {
-
+  grid-row: 2 / 3;
 }
 
 #grid-section3 .box3 {
-
+  grid-column: 2 / 3;
 }
 
 #grid-section3 .box4 {
-
+  grid-row: 3 / 4;
 }
 
 /* end Grid Part 3 */
