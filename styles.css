@@ -57,17 +57,7 @@
 	margin: 0;
   display: flex;
   flex-wrap: wrap;
-  gap: -8px;
-}
-
-#flex-section3 .tags li {
-  background-color: #ddd;
-  color: #000;
-  padding: 2px 4px;
-  border: 2.3px solid #555;
-  border-radius: 4px;
-  font-size: 0.75rem;
-  margin: 2px 4px;
+  gap: 4px;
 }
 
 /* end Flexbox Part 3 */
