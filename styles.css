@@ -61,6 +61,16 @@
   gap: -8px;
 }
 
+#flex-section3 .tags li {
+  background-color: #ddd;
+  color: #000;
+  padding: 3px 8px;
+  border: 2px solid #555;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  margin: 2px 5px;
+}
+
 /* end Flexbox Part 3 */
 
 
